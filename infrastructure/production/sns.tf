@@ -1,0 +1,1 @@
+/home/ubuntu/TerraformIAC/infrastructure/common/sns.tf
